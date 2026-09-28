@@ -15,3 +15,6 @@ scikit-learn
 
 # groq Integration
 langchain-groq
+
+# grandalf to draw graphs
+grandalf
